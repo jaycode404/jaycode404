@@ -1,4 +1,4 @@
-# ⭐ About Me:
+# ⭐ Sobre Mi:
 🚀 Journeying Through: Programador web full-stack inclinado al diseño UX / UI con gusto por la creación y resolución de problemas mediante el código. Me gusta crear aplicaciones útiles para mi entorno, mi filosofia del codigo es materializar soluciones a través de la programación.
 Busco integrarme a un equipo donde pueda reforzar mis habilidades, aportar valor y ampliar mi conocimiento en un entorno colaborativo y dinámico.
 
@@ -14,20 +14,4 @@ Busco integrarme a un equipo donde pueda reforzar mis habilidades, aportar valor
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aneal07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Aneal07&icon=2&color=4)](https://visitcount.itsvg.in)
-
-------
-
-Credit: [Aneal07](https://github.com/Aneal07)
-
-Last Edited on: 18/11/2023
