@@ -1,5 +1,5 @@
 # ⭐ Sobre Mi:
-🚀 Journeying Through: Programador web full-stack inclinado al diseño UX / UI con gusto por la creación y resolución de problemas mediante el código. Me gusta crear aplicaciones útiles para mi entorno, mi filosofia del codigo es materializar soluciones a través de la programación.
+🚀 Programador web full-stack inclinado al diseño UX / UI con gusto por la creación y resolución de problemas mediante el código. Me gusta crear aplicaciones útiles para mi entorno, mi filosofia del codigo es materializar soluciones a través de la programación.
 Busco integrarme a un equipo donde pueda reforzar mis habilidades, aportar valor y ampliar mi conocimiento en un entorno colaborativo y dinámico.
 
 
@@ -10,8 +10,8 @@ Busco integrarme a un equipo donde pueda reforzar mis habilidades, aportar valor
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jaycode404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaycode404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycode404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
