@@ -1,5 +1,6 @@
-# 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+# ⭐ About Me:
+🚀 Journeying Through: Programador web full-stack inclinado al diseño UX / UI con gusto por la creación y resolución de problemas mediante el código. Me gusta crear aplicaciones útiles para mi entorno, mi filosofia del codigo es materializar soluciones a través de la programación.
+Busco integrarme a un equipo donde pueda reforzar mis habilidades, aportar valor y ampliar mi conocimiento en un entorno colaborativo y dinámico.
 
 
 
